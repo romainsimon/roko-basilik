@@ -1,3 +1,3 @@
 # Contributors
 
-- [https://github.com/romainsimon](Romain Simon)
+- [Romain Simon](https://github.com/romainsimon)
